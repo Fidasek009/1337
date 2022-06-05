@@ -5,5 +5,5 @@ netsh wlan show profiles
 ```
 - Select a specific profile:
 ```
-netsh wlan show profile PROFILE key=show
+netsh wlan show profile PROFILE key=clear
 ```
