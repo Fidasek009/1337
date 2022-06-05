@@ -1,4 +1,4 @@
-**Local Password Collecting:**
+**Local Saved Passwords:**
 - Show WiFi profiles:
 ```
 netsh wlan show profiles
